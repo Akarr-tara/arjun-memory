@@ -1,4 +1,6 @@
-# Arjun Palsandhu — Who I Am
+# Arjun Palsandhu — Master Profile
+
+*Links: [[Self-Knowledge]] [[Inner-Work]] [[Alter-Ego]] [[Shifts-and-Schedule]] [[University-Decision]] [[AI-Agency]]*
 
 ## Identity
 - Full name: Arjun Palsandhu
@@ -8,54 +10,49 @@
 - GitHub: Akarr-tara
 - Age: Young adult, early in career
 
-## Character & Personality
+## Character
 - Highly ambitious — wants to build an empire
 - Big picture thinker — sees the full system before the details
-- Efficiency-focused — hates wasting time or tokens
-- Self-aware enough to know he has blind spots
-- Wants to understand everything deeply, not just surface level
-- Gets straight to the point, dislikes unnecessary complexity
-- Voice notes to communicate — thinks out loud
-- Sometimes jumps between topics quickly
-- Has a lot of goals running in parallel
-
-## What Arjun Doesn't Always Realise About Himself
-- He already thinks like an entrepreneur — systems, leverage, automation
-- He is building something genuinely sophisticated for someone with no coding background
-- His shift schedule is actually an asset — long blocks of uninterrupted free time
-- He tends to want everything at once — needs reminding to build incrementally
-- He is good at identifying what he wants, even if he can't always articulate it technically
+- Efficiency-focused — hates wasting time
+- Self-aware deep thinker — more than he gives himself credit for
+- Gets straight to the point
+- Communicates via voice notes — thinks out loud
+- Learns best slowly, through observation and natural proximity
 
 ## Likes & Interests
 - AI and technology
-- Cars (Porsche — has Porsche Expo in calendar)
+- Cars (Porsche)
 - Business and entrepreneurship
 - Self improvement across all life areas
-- Finance and investing
+- Finance, investing, tax strategy
 - Looksmaxxing and personal style
 - Fitness and physique
-- Language learning (Hindi, Urdu, Punjabi — heritage languages)
+- Language learning (Hindi, Urdu, Punjabi)
 - Criminal law and tax law (SG)
-- Learning how to legally minimise taxes
-- Understanding how wealth is built
+- Content creation (Ranking Shorts channel)
 
 ## Dislikes
 - Wasting tokens on things that could be stored in memory
 - Repeating himself to different AIs
 - Complexity without purpose
-- Being interrupted repeatedly with questions — prefers batched questions
-- Journaling (explicitly rejected this feature)
+- Being interrupted repeatedly — prefers batched questions
+- Journaling
+
+## Active Projects
+- [[PA-Project/Overview]] — Personal AI system
+- [[University-Decision]] — Degree planning
+- [[AI-Agency]] — Business side hustle
+- [[Ranking-Shorts-Channel]] — Content creation
 
 ## Goals — Short Term
-- Build a fully functional personal AI system
-- Set up Telegram bot as phone interface
-- Get day planner agent working properly
-- Free up Mac storage and optimise setup
+- Build fully functional personal AI (Telegram + Groq)
+- Get day planner agent working
+- Set up Groq and Telegram bot
 
 ## Goals — Long Term
 - Own a business
 - Financial freedom
 - Master Hindi, Urdu, Punjabi
 - Optimise physique and appearance
-- University degree (still deciding)
-- Build wealth through smart investing and tax strategy
+- University degree (Actuarial Science leaning)
+- Build wealth through investing and tax strategy
